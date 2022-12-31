@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "maybemorldgen:block/pink_gladiolus"
+  }
+}

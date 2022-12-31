@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "maybemorldgen:block/pincushion_bottom"
+    },
+    "half=upper": {
+      "model": "maybemorldgen:block/pincushion_top"
+    }
+  }
+}

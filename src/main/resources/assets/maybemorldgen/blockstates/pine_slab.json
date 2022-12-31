@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "maybemorldgen:block/pine_slab"
+    },
+    "type=double": {
+      "model": "maybemorldgen:block/pine_planks"
+    },
+    "type=top": {
+      "model": "maybemorldgen:block/pine_slab_top"
+    }
+  }
+}

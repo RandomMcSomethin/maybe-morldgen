@@ -1,9 +1,7 @@
-# Fabric Example Mod
+# Maybe Morldgen
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+Changes up worldgen quite a bit and adds tons of new stuff
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This mod will be available under the MIT license once I update the repo lol

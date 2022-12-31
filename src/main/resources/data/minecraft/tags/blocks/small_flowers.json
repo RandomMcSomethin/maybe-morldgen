@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "maybemorldgen:pink_gladiolus",
+    "maybemorldgen:purple_gladiolus",
+    "maybemorldgen:red_gladiolus",
+    "maybemorldgen:wax_heath",
+    "maybemorldgen:arctic_poppy",
+    "maybemorldgen:pasqueflower"
+  ]
+}

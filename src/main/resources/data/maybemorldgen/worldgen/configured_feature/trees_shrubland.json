@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "features": [
+      {
+        "chance": 0.1,
+        "feature": "minecraft:acacia_checked"
+      },
+      {
+        "chance": 0.9,
+        "feature": "maybemorldgen:acacia_bush"
+      }
+    ],
+    "default": "maybemorldgen:acacia_bush"
+  }
+}
